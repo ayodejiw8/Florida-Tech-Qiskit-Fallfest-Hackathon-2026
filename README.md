@@ -42,11 +42,7 @@ If you're hesitating because you think you're not technical enough, read **[NON-
 ├── PARTICIPANT_HANDBOOK.md    ← the operating manual
 ├── NON-TECHNICAL-TRACK.md     ← the domain track guide
 ├── NOTEBOOK-CATALOG.md        ← annotated notebooks
-├── challenges/                ← problem statements (published at kickoff)
-├── resources/                 ← starter notebooks, datasets, slide templates
-└── submissions/
-    ├── _TEMPLATE/             ← copy this to start
-    └── team-<name>/           ← your team's work
+
 ```
 
 ---
