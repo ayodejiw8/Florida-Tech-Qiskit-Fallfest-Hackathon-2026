@@ -1,6 +1,6 @@
-# Florida Atlantic University: Qiskit Fallfest 2026
+# Florida Tech: Qiskit Fallfest 2026
 
-**Qiskit Fall Fest 2026 | Oct 2026 | Florida | hosted by Florida Atlantic University**
+**Qiskit Fall Fest 2026 | Oct 2026 | Florida | hosted by Florida Institute of Technology**
 
 Celebrating a decade of quantum on the cloud.
 
