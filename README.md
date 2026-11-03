@@ -51,17 +51,7 @@ If you're hesitating because you think you're not technical enough, read **[NON-
 
 ---
 
-## Key dates
 
-| | |
-|---|---|
-| Local Kickoff and challenge release | Oct 1, 2026 |
-| **Submission deadline of first place local hackathon winners ** | **Oct 31, 2026** |
-| Presentations and awards | {{ORGANIZER: Date of your finals event}} |
-
-Full schedule: [Handbook §8](PARTICIPANT_HANDBOOK.md#8-event-schedule)
-
----
 
 ## Cost
 
