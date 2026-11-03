@@ -1,31 +1,10 @@
-# Participant Handbook — Florida Atlantic University Qiskit Fall fest 2026
+# Participant Handbook — Florida Institute of Technology Qiskit Fall fest 2026
 
 **Part of Qiskit Fall Fest 2026 | Oct 5 - Nov 13**
 
 ---
 
-## 0. The five-minute version
 
-You have **one job before Oct 5, 2026**: arrive with a working environment and a rough idea of a problem you care about. Nothing else.
-
-| | Builder track | Domain track |
-|---|---|---|
-| **Who** | Writes code during the event | Frames problems, judges impact, tells the story |
-| **Pre-work time** | 3–5 hours | 2–3 hours |
-| **Must do** | §2, §3, §4, §5, §6, §7 | §2, §3, §4 (account only), §6, §7 |
-| **Can skip** | — | Installing anything. Seriously. |
-
-**Everyone, regardless of track:**
-
-- [ ] Register for the event → {{ https://quantumkev.github.io/Qiskit_Fall_Fest_2026/register }} 
-- [ ] Join the chat → {{ https://discord.gg/vz6uTbtJzR }}
-- [ ] Create an IBM Quantum Platform account → §4
-- [ ] Create a GitHub account and join the event repo → §6 @Grant, could you confirm your platform has some direct/indirect connection to GH? 
-- [ ] Read §2 (what we're actually building) and skim [`NON-TECHNICAL-TRACK.md`](NON-TECHNICAL-TRACK.md)
-
-If you only have 30 minutes, do the four checkboxes above and stop. Everything else can happen on day one.
-
----
 
 ## 1. What Qiskit Fall Fest is
 
@@ -33,7 +12,7 @@ Qiskit Fall Fest is a worldwide, student-led series of quantum computing events 
 
 The **2026 theme is "a decade of quantum on the cloud"**: it marks ten years since IBM put the world's first open-access quantum computer on the internet. Ten years ago, running a circuit on real quantum hardware meant knowing someone in a lab. Today you do it from a browser tab, for free, in about four minutes. That shift is the entire reason this event can exist, and it's a useful thing to keep in mind when you're deciding how ambitious to be.
 
-{{HOST_ORG}} is running **{{EVENT_NAME}}** as part of that lineup. (Local university leads replace with your details)
+Florida Institute of Technology is running the Qiskit Fallfest hackathon as part of that lineup. 
 
 Official IBM announcement: <https://www.ibm.com/quantum/blog/qiskit-fall-fest-2026>
 
