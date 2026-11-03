@@ -1,6 +1,6 @@
 # Notebook Catalog
 
-**Florida Atlantic University: Qiskit Fall Fest 2026**
+**Florida Institute of Technology: Qiskit Fall Fest 2026**
 
 Every notebook below is free, official (IBM Quantum Learning or Qiskit documentation), and maintained against current Qiskit. We've rated each one by how much code you need to touch, so you can find the ones that suit you rather than bouncing off the first thing you open.
 
